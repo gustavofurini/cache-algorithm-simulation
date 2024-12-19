@@ -33,3 +33,8 @@ The program generates text files based on the description provided, by downloadi
    git clone https://github.com/ThomasFrentzel/Cache-Algorithm-Simulation
    ```
 
+## Authors
+
+- [Thomas Frentzel](https://github.com/ThomasFrentzel)
+- [Gustavo Furini](https://github.com/gustavofurini)
+
