@@ -1,4 +1,4 @@
-# Cache-Algorithms-Simulation
+# Cache-Algorithm-Simulation
 
 This Python application simulates different cache algorithms to optimize text loading times for a reading application with limited memory. The objective is to minimize the time spent loading files from a slow, forensically secure disk system. The system can store a maximum of 10 texts in memory at any given time, and the application supports three cache algorithms: Least Recently Used (LRU), First In First Out (FIFO), and Least Frequently Used (LFU). The program simulates user requests for texts, tracks cache hits and misses, and measures the time taken for each request.
 
@@ -30,6 +30,6 @@ The program generates text files based on the description provided, by downloadi
 
 ## Clone the repository:
    ```bash
-   git clone https://github.com/ThomasFrentzel/Cache-Algorithms-Simulation
+   git clone https://github.com/ThomasFrentzel/Cache-Algorithm-Simulation
    ```
 
